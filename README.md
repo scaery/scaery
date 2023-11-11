@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @scaery
-- 👀 I’m interested in 0days
+# I DO NOT USE GITHUB ANY LONGER FOR REASON! 
 
-- 💞️ I’m looking to collaborate on #infosec
-- 📫 How to reach me? Blackhat hopefully some day
+"Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather."
 
 <!---
 scaery/scaery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
